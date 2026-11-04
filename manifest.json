@@ -1,8 +1,8 @@
 {
-  "id": "dsh-original-skills",
-  "name": "纯原创技能包",
-  "version": "v0.1.0",
-  "description": "作者自建的纯原创 DSH 技能（2 个）：dsh-local-plugin-authoring, dsh-plugin-upstream-contribute",
+  "id": "dsh-plugin-authoring",
+  "name": "DSH 插件开发与上游协作技能包 / DSH Plugin Authoring & Upstream Contribution Skills",
+  "version": "v0.2.0",
+  "description": "在本机新建非 npm 的 DSH 插件并挂进 profile，再按上游 CONTRIBUTING 把改动回提（Issue/PR），两个技能：插件开发、上游贡献。 / Author a local DSH plugin and mount it into a profile, then contribute the change upstream by its CONTRIBUTING rules (Issue/PR). Two skills: plugin authoring, upstream contribution.",
   "author": {
     "name": "Wuzeyu-sz",
     "url": "https://github.com/Wuzeyu-sz"
